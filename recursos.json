@@ -1,0 +1,232 @@
+{
+    "Servicios": [
+        [
+            "Manicura regular",
+            30,
+            [
+                "alicate",
+                "repujador",
+                "esmalte regular",
+                "brillo liso",
+                "acetona",
+                "palito de naranjo",
+                "algodon",
+                "lima",
+                "mesa de trabajo"
+            ]
+        ],
+        [
+            "Manicura semipermanente",
+            45,
+            [
+                "alicate",
+                "repujador",
+                "esmalte semipermanente",
+                "base coat",
+                "top coat",
+                "primer",
+                "aceite de cuticulas",
+                "lima",
+                "linner",
+                "lampara UV/LED",
+                "mesa de trabajo"
+            ]
+        ],
+        [
+            "Manicura buildergel",
+            90,
+            [
+                "alicate",
+                "repujador",
+                "gel builder",
+                "base coat",
+                "esmalte semipermanente",
+                "top coat",
+                "primer",
+                "aceite de cuticulas",
+                "lima",
+                "pincel lengua de gato",
+                "buffer",
+                "linner",
+                "lampara UV/LED",
+                "mesa de trabajo"
+            ]
+        ],
+        [
+            "Manicura polygel",
+            120,
+            [
+                "alicate",
+                "repujador",
+                "polygel",
+                "base coat",
+                "esmalte semipermanente",
+                "top coat",
+                "primer",
+                "aceite de cuticulas",
+                "lima",
+                "pincel lengua de gato",
+                "buffer",
+                "linner",
+                "tips para manos",
+                "pegamento para tips",
+                "cortador de tips",
+                "palito de naranjo",
+                "lampara UV/LED",
+                "mesa de trabajo"
+            ]
+        ],
+        [
+            "Manicura softgel",
+            100,
+            [
+                "alicate",
+                "repujador",
+                "base coat",
+                "esmalte semipermanente",
+                "top coat",
+                "primer",
+                "aceite de cuticulas",
+                "lima",
+                "pincel lengua de gato",
+                "buffer",
+                "linner",
+                "tips para manos",
+                "pegamento para tips",
+                "cortador de tips",
+                "lampara cuello de cisne",
+                "lampara UV/LED",
+                "mesa de trabajo"
+            ]
+        ],
+        [
+            "Pedicura regular",
+            45,
+            [
+                "alicate",
+                "corta uñas",
+                "repujador",
+                "esmalte regular",
+                "brillo liso",
+                "acetona",
+                "palito de naranjo",
+                "algodon",
+                "lima",
+                "crema para pies",
+                "piedra pómez",
+                "palangana de hidromasaje",
+                "sofa de pedicura"
+            ]
+        ],
+        [
+            "Pedicura semipermanente",
+            60,
+            [
+                "alicate",
+                "corta uñas",
+                "repujador",
+                "esmalte semipermanente",
+                "base coat",
+                "top coat",
+                "primer",
+                "linner",
+                "lima",
+                "crema para pies",
+                "piedra pómez",
+                "palangana de hidromasaje",
+                "lampara UV/LED",
+                "sofa de pedicura"
+            ]
+        ],
+        [
+            "Pedicura semipermanente con extension de polygel",
+            120,
+            [
+                "alicate",
+                "corta uñas",
+                "repujador",
+                "polygel",
+                "base coat",
+                "esmalte semipermanente",
+                "top coat",
+                "primer",
+                "lima",
+                "linner",
+                "buffer",
+                "crema para pies",
+                "piedra pómez",
+                "palangana de hidromasaje",
+                "pincel lengua de gato",
+                "palito de naranjo",
+                "tips para pies",
+                "pegamento para tips",
+                "cortador de tips",
+                "lampara UV/LED",
+                "sofa de pedicura"
+            ]
+        ],
+        [
+            "Pedicura spa",
+            120,
+            [
+                "esmalte semipermanente",
+                "base coat",
+                "top coat",
+                "primer",
+                "crema para pies",
+                "piedra pómez",
+                "linner",
+                "palangana de hidromasaje",
+                "alicate",
+                "repujador",
+                "lima",
+                "corta uñas",
+                "lampara UV/LED",
+                "sofa de pedicura",
+                "gelish spa"
+            ]
+        ]
+    ],
+    "RecursosGastables": [
+        ["esmalte regular", 20],
+        ["esmalte semipermanente", 40],
+        ["gel builder", 5],
+        ["polygel", 5],
+        ["base coat", 3],
+        ["top coat", 2],
+        ["primer", 3],
+        ["aceite de cuticulas", 2],
+        ["crema para pies", 2],
+        ["pegamento para tips", 3],
+        ["algodon", 130],
+        ["acetona", 1],
+        ["brillo liso", 2],
+        ["gelish spa", 35],
+        ["alcohol", 5]
+    ],
+    "RecursosNoGastables": [
+        ["piedra pómez", 2],
+        ["linner", 5],
+        ["buffer", 3],
+        ["tips para manos", 120],
+        ["tips para pies", 100],
+        ["cortador de tips", 1],
+        ["lampara cuello de cisne", 1],
+        ["palangana de hidromasaje", 1],
+        ["pincel lengua de gato", 2],
+        ["alicate", 2],
+        ["repujador", 2],
+        ["palito de naranjo", 5],
+        ["lima", 5],
+        ["corta uñas", 2],
+        ["lampara UV/LED", 2],
+        ["mesa de trabajo", 2],
+        ["sofa de pedicura", 1]
+    ],
+    "Manicuristas": [
+        "Ana",
+        "Beatriz",
+        "Carla",
+        "Diana"
+    ]
+}
